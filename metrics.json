@@ -1,0 +1,12 @@
+{
+    "epoch_losses": [],
+    "val_losses": [],
+    "nic_rouge_scores": [],
+    "scst_rouge_scores": [],
+    "nic_bleu_score": [],
+    "scst_bleu_score": [],
+    "nic_caption_lengths": [],
+    "scst_caption_lengths": [],
+    "captions_nic": [],
+    "captions_scst": []
+}
